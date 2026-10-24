@@ -12,8 +12,8 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Nusaiba Arefin
-Tassen Raihan Trima
+1. Nusaiba Arefin
+2. Tassen Raihan Trima
 
 ## Summary
 In this lab, we learned how muiltiplexers and demultiplexers work. 
